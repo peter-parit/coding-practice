@@ -1,4 +1,6 @@
-class Solution {
+package TwoPasses;
+
+class SortColors {
     public void sortColors(int[] nums) {
         int countReds = 0;
         int left = 0;

@@ -1,3 +1,8 @@
+package Graph;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class CutTheTree {
 
     // main function

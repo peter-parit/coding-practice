@@ -1,3 +1,5 @@
+package Memoization;
+
 public class LongestPalindromicSubsequence {
     public static int longestPalindromicSubsequence(String s, int k) {
         int originalLPS = getLPSLength(s);
