@@ -1,4 +1,4 @@
-package Backtracking;
+package DynamicProgrammingAndBacktracking;
 
 
 import java.util.ArrayList;

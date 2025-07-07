@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package DynamicProgrammingAndBacktracking;
 
 public class LongestPalindromicSubsequence {
     public static int longestPalindromicSubsequence(String s, int k) {
